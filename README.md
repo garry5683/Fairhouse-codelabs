@@ -1,8 +1,7 @@
-# Introduction to Angular Codelab
+# Component to Component Communication
 
-\In this codelab, you'll build a housing app with Angular. The completed app will feature the ability to view home listings based on user search, and view details of a housing location.
+In this Project, you'll build a housing app with Angular. The completed app will feature the ability to view home listings based on user search, and view details of a housing location.
 
-You'll build everything with Angular using Angular's powerful tooling and great browser integration.
 
 Here's a preview of the finished application:
 
